@@ -12,7 +12,7 @@
 - `pip3 install pytz`
 - `pip3 install humanfriendly`
 - `pip3 install googletrans`
-- `git clone https://github.com/gyevha2/Gie`
+- `git clone https://github.com/kunphiphitb/python3.git`
 
 - 'Cara Run Bot'
 - Ketik -> `cd Gye`
